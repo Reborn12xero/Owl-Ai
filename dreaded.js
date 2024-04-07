@@ -342,38 +342,38 @@ if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !O
         case "menu":
 let cap = `╭════〘 𓅓𝐎𝐖𝐋 𝐁𝐎𝐓𓅓 〙═⊷❍
 ┃𓅓╭──────────────
-┃𓅓│ Owner : 𝐌𝐀𝐋𝐈𝐁𝐔
+┃𓅓│ *Owner* : 𝐁𝐞𝐥𝐭𝐚𝐡 𝐓𝐞𝐜𝐡 𝟐𝟓𝟒🇰🇪 
 ┃𓅓│ User : ${m.pushName} 
 ┃𓅓│ Platform : Tesla x
 ┃𓅓│ Available RAM 34GB of 62GB
 ┃𓅓│𝐕𝐞𝐫𝐬𝐢𝐨𝐧: 𝐯𝟏.𝟎.𝟏
-┃𓅓│
-┃𓅓│
+┃𓅓│I'M AM CLONED BY BELTAH KE
+┃𓅓│254114141192 IF YOU NEED WHATSAPP BOT
 ┃𓅓│▎▍▌▌▉▏▎▌▉▐▏▌
 ┃𓅓│▎▍▌▌▉▏▎▌▉▐▏▌
-┃𓅓│ 𓅓 𝐓𝐡𝐞𝐞 𝐎𝐰𝐥 𓅓
+┃𓅓│ 𓅓 𝐁𝐞𝐥𝐭𝐚𝐡 𝐓𝐞𝐜𝐡 𝟐𝟓𝟒𓅓
 ┃𓅓│
 ┃╰─────
 ╰─────────────────❍
-╭════〘 𓅓𝗢𝗪𝗡𝗘𝗥𓅓 〙════⊷❍
+╭══😬══〘 𓅓𝗢𝗪𝗡𝗘𝗥𓅓 〙══😬══⊷❍
 ▯╭────────────···▸
 ┴𓅓│
 ┃𓅓│Admin
 ┃𓅓│Broadcast
 ┃𓅓│Join
 ┃𓅓│Botpp
-┃𓅓│>
+┃𓅓│>Contact Beltah if you me😬
 ┃𓅓│Block
 ┃𓅓│Kill
 ┃𓅓│Unblock
 ┃𓅓│Setvar
-┬✯│
+┬✯│254114141192@s.whatsapp.net 
 │╰─────────────────❍
 ╰══════════════════⊷❍
 
 ╭════〘 𓅓𝗚𝗘𝗡𝗘𝗥𝗔𝗟𓅓〙════⊷❍
 ▯╭─────────────···▸
-┴𓅓│
+┴𓅓│😬😬😬😬😬😬😬😬😬😬
 ┃𓅓│Sticker
 ┃𓅓│Toimg
 ┃𓅓│Upload
@@ -430,8 +430,9 @@ let cap = `╭════〘 𓅓𝐎𝐖𝐋 𝐁𝐎𝐓𓅓 〙═⊷❍
 ┃𓅓│Tagall
 ┃𓅓│Hidetag
 ┃𓅓│Revoke
-┃𓅓╰───────────────❍
-╰════════════════⊷❍`;
+┃𓅓~~~~~~~~~~~~~~~~~~~~~~~~~~~──❍
+™dm the bot owner if you need this bot
+╰made--on--earth--by--Beltah--ke--⊷❍`;
 
 if (menu === 'VIDEO') {
 
@@ -1322,12 +1323,12 @@ break;
         
         case "system": 
   
-              client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/8b00cf048d7c330bb4324.jpg' }, caption:`*_𝐁𝐎𝐓 𝐍𝐀𝐌𝐄: 𝐎𝐖𝐋-𝐀𝐈_*\n\n*_𝐒𝐏𝐄𝐄𝐃:𓅓𝓟𝓸𝓷𝓰...! ${dreadedspeed.toFixed(4)} 𝓶𝓼_*\n\n*_𝐑𝐔𝐍𝐓𝐈𝐌𝐄: ${runtime(process.uptime())}_*\n\n*_𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌: Tesla x_*\n\n*_𝐇𝐎𝐒𝐓𝐍𝐀𝐌𝐄: Malibu_*\n\n*_𝐋𝐈𝐁𝐑𝐀𝐑𝐘: Baileys_*`}); 
+              client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg' }, caption:`*_𝐁𝐎𝐓 𝐍𝐀𝐌𝐄: 𝐎𝐖𝐋-𝐀𝐈_*\n\n*_𝐒𝐏𝐄𝐄𝐃:𓅓𝓟𝓸𝓷𝓰...! ${dreadedspeed.toFixed(4)} 𝓶𝓼_*\n\n*_𝐑𝐔𝐍𝐓𝐈𝐌𝐄: ${runtime(process.uptime())}_*\n\n*_𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌: Tesla x_*\n\n*_𝐇𝐎𝐒𝐓𝐍𝐀𝐌𝐄: Beltah_*\n\n*_𝐋𝐈𝐁𝐑𝐀𝐑𝐘: Baileys_*`}); 
  break; 
 
 case "speed": 
   
-              client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/1d0fb63c857138f5bee51.jpg' }, caption:`𝐎𝐖𝐋 𝐀𝐈\n\n𝐒𝐏𝐄𝐄𝐃:𓅓𝓟𝓸𝓷𝓰...! ${dreadedspeed.toFixed(4)} 𝓶𝓼`}); 
+              client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg' }, caption:`𝐎𝐖𝐋 𝐀𝐈\n\n𝐒𝐏𝐄𝐄𝐃:𓅓BELTAH PONG...! ${dreadedspeed.toFixed(4)} 𝓶𝓼`}); 
  break; 
 
 case "take": {
@@ -1706,7 +1707,7 @@ break;
                 client.sendMessage(
                     from, {
                         video: fs.readFileSync(`./${randomName}`),
-                        caption: `𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐎𝐰𝐥-𝐀𝐈`,
+                        caption: `𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𓅓𝐁𝐞𝐥𝐭𝐚𝐡-𝐌𝐃`,
                     }, {
                         quoted: m
                     }
@@ -1722,18 +1723,18 @@ break;
 break;
 
 case "ping": case "speed": { 
-         m.reply (`𓅓𝓟𝓸𝓷𝓰...! ${dreadedspeed.toFixed(4)} 𝓶𝓼`); 
+         m.reply (`𓅓BELTAH PONG...! ${dreadedspeed.toFixed(4)} 𝓶𝓼`); 
          } 
  break; 
   
  case "runtime": { 
-                 m.reply (`OWL AI has been running for ${runtime(process.uptime())}`) 
+                 m.reply (`BELTAH AI has been running for ${runtime(process.uptime())} and it is still active`) 
  } 
  break;
 
 case "alive": { 
   
- client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/117bb12f0cf686af0c0cd.jpg' }, caption: `Hello ${m.pushName}, 𝐎𝐖𝐋 𝐀𝐈 is alive since  ${runtime(process.uptime())}`, fileLength: "9999999999898989899999999" }, { quoted: m }); 
+ client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg' }, caption: `Hello ${m.pushName}, 𝐁𝐞𝐥𝐭𝐚𝐡-𝐌𝐃 is alive since  ${runtime(process.uptime())}`, fileLength: "9999999999898989899999999" }, { quoted: m }); 
  }
 break;
 case 'apk': {
@@ -1875,12 +1876,12 @@ case "movie":
  break;
  
           case "owl": case "owner": case "malibu": 
- client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/38bea6cbdfdde7efc95d7.jpg' }, caption: `Say no more 😌 here is 𝐌𝐀𝐋𝐈𝐁𝐔 contact +254712703241 🥱` }, {quoted: m}); 
+ client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg' }, caption: `Say no more 😌 here is Beltah ke contact +254114141192 😬` }, {quoted: m}); 
   
  break; 
         
        case "script": case "repo": case "sc": 
- client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/1d0fb63c857138f5bee51.jpg' }, caption: `You can deploy this bot using the github link below!\nFork and enjoy our kenyan bot✨.\n\nhttps://github.com/owlai01/Owl-Ai\n\nget your pair code on replit using this link[https://replit.com/@vagaabond9/Pairing-Owl-ai?v=1]\n\nenjoy and have fun 😊 with our bot\n\nMade on Earth by Malibu!` }, {quoted: m}); 
+ client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg' }, caption: `You can deploy this bot using the github link below!\nFork and enjoy our kenyan bot✨.\n\nhttps://github.com/owlai01/Owl-Ai\n\nget your pair code on replit using this link[https://replit.com/@vagaabond9/Pairing-Owl-ai?v=1]\n\nenjoy and have fun 😊 with our bot\n\nMade on Earth by Beltah KE !` }, {quoted: m}); 
   
  break
 
@@ -1963,7 +1964,7 @@ case "getvar":
  if (!m.quoted) throw `Tag someone!`;
  let users = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : text.replace(/[^0-9]/g, '')+'@s.whatsapp.net' 
  await client.updateBlockStatus(users, 'block'); 
- m.reply (`Blocked!`); 
+ m.reply (`Blocked successfully by Beltah KE !`); 
  } 
  break; 
   
@@ -1990,7 +1991,7 @@ case "getvar":
         case "gpt": case "gpt": 
           
 
-            if (!text) return reply("Hello am 𝐎𝐖𝐋 an Ai developed by 𝐌𝐚𝐥𝐢𝐛𝐮, how can I help you today?");
+            if (!text) return reply("Hello am 𝐁𝐞𝐥𝐭𝐚𝐡-𝐌𝐃 an Ai developed by BELTAH who is a plumber but has more passion in coding, how can I help you today?");
 
            const configuration = new Configuration({
 
