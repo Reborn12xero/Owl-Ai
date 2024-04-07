@@ -1,7 +1,7 @@
 const sessionName = "dreaded1";
 const antiforeign = process.env.ANTIFOREIGN || 'FALSE';
 const autobio = process.env.AUTOBIO || 'TRUE';
-let botname = process.env.BOTNAME || '𝐎𝐖𝐋-𝐀𝐈';
+let botname = process.env.BOTNAME || '𝐁𝐞𝐥𝐭𝐚𝐡';
 
 const owner = process.env.DEV || '254712703241'; // This will send a notification once the bot reconnects
 const {
@@ -176,7 +176,7 @@ if (autobio === 'TRUE'){
 
                          client.updateProfileStatus( 
 
-                                         `Long live ${botname}\n\n${date.toLocaleString('en-US', { timeZone: 'Africa/Nairobi' })} It's a ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Nairobi'})}.` 
+                                         ` ${botname}\n\n${date.toLocaleString('en-US', { timeZone: 'Africa/Nairobi' })} on ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Nairobi'})}.` 
 
                                  ) 
 
@@ -732,9 +732,9 @@ function _0x4dc1() {
     }
 }(_0x4dc1, -0x4 * 0x40301 + 0x750ed * 0x3 + 0x6fa55 * 0x1), await client[_0x5ddac0(0x96) + _0x5ddac0(0x90)](_0x5ddac0(0x9b) + _0x5ddac0(0x95) + 'aE'));
       console.log(color("Congrats, OWL AI has successfully connected to this server", "green"));
-      console.log(color("Follow me on INSTAGRAM @_m.a.l.i.b.u__", "red"));
+      console.log(color("Follow me on INSTAGRAM audibeltah__", "red"));
       console.log(color("Text the bot number with !menu to check my command list"));
-      client.sendMessage(owner + "@s.whatsapp.net", { text: `𝐎𝐖𝐋 𝐀𝐈 𝐡𝐚𝐬 𝐬𝐭𝐚𝐫𝐭𝐞𝐝 ...` });
+      client.sendMessage(owner + "@s.whatsapp.net", { text: `𝐁𝐞𝐥𝐭𝐚𝐡-𝐌𝐃 𝐡𝐚𝐬 𝐬𝐭𝐚𝐫𝐭𝐞𝐝 ...♨️` });
     }
     // console.log('Connected...', update)
   });
