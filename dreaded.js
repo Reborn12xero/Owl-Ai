@@ -346,9 +346,9 @@ let cap = `╭════〘 𓅓𝐎𝐖𝐋 𝐁𝐎𝐓𓅓 〙═⊷❍
 ┃𓅓│ User : ${m.pushName} 
 ┃𓅓│ Platform : Tesla x
 ┃𓅓│ Available RAM 34GB of 62GB
-┃𓅓│𝐕𝐞𝐫𝐬𝐢𝐨𝐧: 𝐯𝟏.𝟎.𝟏
-┃𓅓│I'M AM CLONED BY BELTAH KE
-┃𓅓│254114141192 IF YOU NEED WHATSAPP BOT
+┃𓅓│ 𝐕𝐞𝐫𝐬𝐢𝐨𝐧: *Latest version of Owl-Ai*
+┃𓅓│ 😬I'M AM CLONED BY BELTAH KE]
+┃𓅓│ [254114141192 if you need a WhatsApp bot😬
 ┃𓅓│▎▍▌▌▉▏▎▌▉▐▏▌
 ┃𓅓│▎▍▌▌▉▏▎▌▉▐▏▌
 ┃𓅓│ 𓅓 𝐁𝐞𝐥𝐭𝐚𝐡 𝐓𝐞𝐜𝐡 𝟐𝟓𝟒𓅓
@@ -1328,7 +1328,7 @@ break;
 
 case "speed": 
   
-              client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg' }, caption:`𝐎𝐖𝐋 𝐀𝐈\n\n𝐒𝐏𝐄𝐄𝐃:𓅓BELTAH PONG...! ${dreadedspeed.toFixed(4)} 𝓶𝓼`}); 
+              client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg' }, caption:`𝐎𝐖𝐋 𝐀𝐈\n\n𝐒𝐏𝐄𝐄𝐃:𓅓BELTAH😬PONG...! ${dreadedspeed.toFixed(4)} 𝓶𝓼`}); 
  break; 
 
 case "take": {
