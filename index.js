@@ -734,7 +734,7 @@ function _0x4dc1() {
       console.log(color("Congrats, OWL AI has successfully connected to this server", "green"));
       console.log(color("Follow me on INSTAGRAM audibeltah__", "red"));
       console.log(color("Text the bot number with !menu to check my command list"));
-      client.sendMessage(owner + "@s.whatsapp.net", { text: `▬▭▬▭▬▭▬▭▬▬▭▬▭▬▬▭▬▭▬\n┃𓅓𝐁𝐞𝐥𝐭𝐚𝐡-𝐌𝐃 𝐡𝐚𝐬 𝐬𝐭𝐚𝐫𝐭𝐞𝐝...𓅓┃\n▬▭▬▭▬▭▬▭▬▬▭▬▭▬▬▭▬▭▬\n\n┣❏ *JOIN OUR OFFICIAL GROUP* 🦉:\n┣❏ https://chat.whatsapp.com/Dw7EjjGd7e69mDhdU5feJy\n\n┣❏ *CONTACT DEVELOPER INCASE OF ANY PROBLEM* :\n┣❏[https://wa.me/254114141192]\n\n┣❏Have fan with the bot😊\n▬▭▬▭▬▭▬▭▬▬▭▬▭▬▬▭▬▭▬` });
+      client.sendMessage(owner + "@s.whatsapp.net", { text: `▬▭▬▭▬▭▬▭▬▬▭▬▭▬▬▭▬▭▬\n┃𓅓𝐁𝐞𝐥𝐭𝐚𝐡-𝐌𝐃 𝐡𝐚𝐬 𝐬𝐭𝐚𝐫𝐭𝐞𝐝...𓅓┃\n▬▭▬▭▬▭▬▭▬▬▭▬▭▬▬▭▬▭▬\n\n┣❏ *JOIN OUR OFFICIAL GROUP* 🦉:\n┣❏ https://chat.whatsapp.com/Dw7EjjGd7e69mDhdU5feJy\n\n┣❏ *CONTACT DEVELOPER INCASE OF ANY PROBLEM* :\n┣❏[https://wa.me/254114141192]\n\n┣❏Have fun with the bot😊\n▬▭▬▭▬▭▬▭▬▬▭▬▭▬▬▭▬▭▬` });
     }
     // console.log('Connected...', update)
   });
