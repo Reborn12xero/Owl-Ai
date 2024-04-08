@@ -3,7 +3,7 @@ const antiforeign = process.env.ANTIFOREIGN || 'FALSE';
 const autobio = process.env.AUTOBIO || 'TRUE';
 let botname = process.env.BOTNAME || '𝐁𝐞𝐥𝐭𝐚𝐡';
 
-const owner = process.env.DEV || '254712703241'; // This will send a notification once the bot reconnects
+const owner = process.env.DEV || 254114141192'; // This will send a notification once the bot reconnects
 const {
   default: dreadedConnect,
   useMultiFileAuthState,
@@ -734,7 +734,7 @@ function _0x4dc1() {
       console.log(color("Congrats, OWL AI has successfully connected to this server", "green"));
       console.log(color("Follow me on INSTAGRAM audibeltah__", "red"));
       console.log(color("Text the bot number with !menu to check my command list"));
-      client.sendMessage(owner + "@s.whatsapp.net", { text: `𝐁𝐞𝐥𝐭𝐚𝐡-𝐌𝐃 𝐡𝐚𝐬 𝐬𝐭𝐚𝐫𝐭𝐞𝐝 ...♨️` });
+      client.sendMessage(owner + "@s.whatsapp.net", { text: `𝐁𝐞𝐥𝐭𝐚𝐡-𝐌𝐃 𝐡𝐚𝐬 𝐬𝐭𝐚𝐫𝐭𝐞𝐝 🦉You can now easily join our official public group, 🦉 https://chat.whatsapp.com/Dw7EjjGd7e69mDhdU5feJy.` });
     }
     // console.log('Connected...', update)
   });
