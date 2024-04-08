@@ -283,7 +283,7 @@ const response = await openai.createChatCompletion({
 if (badwordkick === 'TRUE' && isBotAdmin && !isAdmin && body && (new RegExp('\\b' + badword.join('\\b|\\b') + '\\b')).test(body.toLowerCase())) {
             
      client.groupParticipantsUpdate(from, [sender], 'remove')
-            reply("Au revoir.\n\nBot owner hates usage of bad words!")
+            reply("Adios .\n\nBot owner hates usage of bad words!")
             
         
                                                    }
@@ -346,9 +346,9 @@ let cap = `╭════〘 𓅓𝐎𝐖𝐋 𝐁𝐎𝐓𓅓 〙═⊷❍
 ┃𓅓│ User : ${m.pushName} 
 ┃𓅓│ Platform : Tesla x
 ┃𓅓│ Available RAM 34GB of 62GB
-┃𓅓│ 𝐕𝐞𝐫𝐬𝐢𝐨𝐧: *Latest version of Owl-Ai*
-┃𓅓│ 😬I'M AM CLONED BY BELTAH KE]
-┃𓅓│ [254114141192 if you need a WhatsApp bot😬
+┃𓅓│ 𝐕𝐞𝐫𝐬𝐢𝐨𝐧: ©²-²-⁴
+┃𓅓│ 
+┃𓅓│ wa.me/254114141192 
 ┃𓅓│▎▍▌▌▉▏▎▌▉▐▏▌
 ┃𓅓│▎▍▌▌▉▏▎▌▉▐▏▌
 ┃𓅓│ 𓅓 𝐁𝐞𝐥𝐭𝐚𝐡 𝐓𝐞𝐜𝐡 𝟐𝟓𝟒𓅓
@@ -362,12 +362,12 @@ let cap = `╭════〘 𓅓𝐎𝐖𝐋 𝐁𝐎𝐓𓅓 〙═⊷❍
 ┃𓅓│Broadcast
 ┃𓅓│Join
 ┃𓅓│Botpp
-┃𓅓│>Contact Beltah if you me😬
+┃𓅓│>Contact Beltah if you need me🦉
 ┃𓅓│Block
 ┃𓅓│Kill
 ┃𓅓│Unblock
 ┃𓅓│Setvar
-┬✯│254114141192@s.whatsapp.net 
+┬✯│
 │╰─────────────────❍
 ╰══════════════════⊷❍
 
@@ -400,7 +400,7 @@ let cap = `╭════〘 𓅓𝐎𝐖𝐋 𝐁𝐎𝐓𓅓 〙═⊷❍
 ┃𓅓│Compile-c++
 ┃𓅓│Ping
 ┃𓅓│Owner
-┃𓅓│Malibu
+┃𓅓│Beltah
 ┃𓅓│List
 ┃𓅓│system
 ┃𓅓│Mail
@@ -430,9 +430,9 @@ let cap = `╭════〘 𓅓𝐎𝐖𝐋 𝐁𝐎𝐓𓅓 〙═⊷❍
 ┃𓅓│Tagall
 ┃𓅓│Hidetag
 ┃𓅓│Revoke
-┃𓅓~~~~~~~~~~~~~~~~~~~~~~~~~~~──❍
-™dm the bot owner if you need this bot
-╰made--on--earth--by--Beltah--ke--⊷❍`;
+┃𓅓~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~──❍
+┃𓅓 wa.me/254114141192 if you need this bot🦉
+╰made--on--earth--by--Beltah--ke------------⊷❍`;
 
 if (menu === 'VIDEO') {
 
@@ -457,7 +457,7 @@ client.sendMessage(m.chat, {
                                 title: `𝐎𝐖𝐋 𝐀𝐈`,
                                 body: `${runtime(process.uptime())}`,
                                 thumbnail: fs.readFileSync('./owl-ai.jpg'),
-                                sourceUrl: 'https://wa.me/254743551416?text=ʜᴇʟʟᴏ+𝐌𝐀𝐋𝐈𝐁𝐔+Nihostie+Bot+Mkuu+🥲',
+                                sourceUrl: 'https://wa.me/254114141192?text=ʜᴇʟʟᴏ+Beltah+Nihostie+Bot+Mkuu+🥲',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
                             }
@@ -1046,7 +1046,7 @@ break;
          if (!isBotAdmin) throw botAdmin; 
           if (!Owner) throw NotOwner; 
                  await client.groupParticipantsUpdate(m.chat,  [m.sender], 'promote'); 
- m.reply('Promoted To Admin<🥇'); 
+ m.reply('Promoted Successfully To An Administrator <🥇'); 
           }
           break;
 
@@ -1070,9 +1070,9 @@ try {
  if (users  == client.decodeJid(client.user.id)) throw 'Bot cannot remove itself 😡';
  if (users == Owner) { m.reply('Its owner number')}; 
                  await client.groupParticipantsUpdate(m.chat, users, 'remove'); 
-await m.reply('Successfully removed!'); 
+await m.reply('Successfully removed by AI Programmed Bot!'); 
 } catch (errr) { 
- await reply("Something is wrong! Did you give me a user to remove?")}
+ await reply("Something is wrong! Did you give me a user to kick😬?")}
 
      
          } 
@@ -1112,7 +1112,7 @@ break;
                  if (!isAdmin) throw admin; 
   
                      await client.groupSettingUpdate(m.chat, 'announcement'); 
- m.reply('Group successfully locked!'); 
+ m.reply(' _Group successfully locked by AI programmed Bot created by Beltah !_ '); 
  } 
  break; 
  case "open": case "unmute": { 
@@ -1121,7 +1121,7 @@ break;
                  if (!isAdmin) throw admin; 
   
                      await client.groupSettingUpdate(m.chat, 'not_announcement'); 
- m.reply('Group successfully unlocked!'); 
+ m.reply(' _ Settings done ♻️ And the Group has been successfully unlocked 🔓!_ '); 
   
  }
         break;
@@ -1139,11 +1139,11 @@ break;
                  if (!m.isGroup) throw group; 
          if (!isBotAdmin) throw botAdmin; 
          if (!isAdmin) throw admin; 
- if (!m.quoted) throw `Tag someone with the command!`; 
+ if (!m.quoted) throw ` 😬Tag someone with the command!`; 
                  let users = m.mentionedJid[0] ? m.mentionedJid : m.quoted ? [m.quoted.sender] : [text.replace(/[^0-9]/g, '')+'@s.whatsapp.net']; 
   
                  await client.groupParticipantsUpdate(m.chat, users, 'promote'); 
- m.reply('Successfully promoted! 👑'); 
+ m.reply(' _Successfully promoted!to an Administrator of the group👑_ '); 
          } 
  break; 
  case "demote": { 
@@ -1154,7 +1154,7 @@ break;
                  let users = m.mentionedJid[0] ? m.mentionedJid : m.quoted ? [m.quoted.sender] : [text.replace(/[^0-9]/g, '')+'@s.whatsapp.net']; 
   
                  await client.groupParticipantsUpdate(m.chat, users, 'demote'); 
- m.reply('Successfully demoted! 🎗️'); 
+ m.reply( ' _Demoted heartlessly from Administrator to an Ordinary Member!🎗️_ '); 
          } 
  break;
  case "disp7": { 
@@ -1225,7 +1225,7 @@ break;
  break;
           case "leave": { 
                  if (!isAdmin) throw admin; 
- await client.sendText(m.chat, 'GoodBye Everyone. Bot is leaving now. . .'); 
+ await client.sendText(m.chat, 'GoodBye Everyone. Bot is leaving now. . .dm me if you may need me back 😭😒'); 
                  await client.groupLeave(m.chat); 
   
              } 
@@ -1323,7 +1323,7 @@ break;
         
         case "system": 
   
-              client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg' }, caption:`*_𝐁𝐎𝐓 𝐍𝐀𝐌𝐄: 𝐎𝐖𝐋-𝐀𝐈_*\n\n*_𝐒𝐏𝐄𝐄𝐃:𓅓𝓟𝓸𝓷𝓰...! ${dreadedspeed.toFixed(4)} 𝓶𝓼_*\n\n*_𝐑𝐔𝐍𝐓𝐈𝐌𝐄: ${runtime(process.uptime())}_*\n\n*_𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌: Tesla x_*\n\n*_𝐇𝐎𝐒𝐓𝐍𝐀𝐌𝐄: Beltah_*\n\n*_𝐋𝐈𝐁𝐑𝐀𝐑𝐘: Baileys_*`}); 
+              client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg' }, caption:`*_𝐁𝐎𝐓 𝐍𝐀𝐌𝐄: 𝐎𝐖𝐋-𝐀𝐈_*\n\n*_𝐒𝐏𝐄𝐄𝐃:𓅓BELTAH😬PONG! ${dreadedspeed.toFixed(4)} 𝓶𝓼_*\n\n*_𝐑𝐔𝐍𝐓𝐈𝐌𝐄: ${runtime(process.uptime())}_*\n\n*_𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌: Tesla x_*\n\n*_𝐇𝐎𝐒𝐓𝐍𝐀𝐌𝐄: Beltah_*\n\n*_𝐋𝐈𝐁𝐑𝐀𝐑𝐘: Baileys_*`}); 
  break; 
 
 case "speed": 
@@ -1460,7 +1460,7 @@ break
   case 'play':
     case 'stream': {
         if (!text) {
-            reply('Provide a search term!\nE.g: play Alan walker alone')
+            reply('Provide a search term!\nE.g: _play blessings near by Beltah KE_ ')
             return;
         }
         try {
@@ -1523,7 +1523,7 @@ break;
 case 'ytsearch':
     case 'yts': {
         if (!text) {
-            reply('Provide a search term!\E.g: Alan walker alone')
+            reply('Provide a search term!\E.g: _blessings near Beltah KE_ ')
             return;
         }
         const term = text;
@@ -1707,7 +1707,7 @@ break;
                 client.sendMessage(
                     from, {
                         video: fs.readFileSync(`./${randomName}`),
-                        caption: `𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𓅓𝐁𝐞𝐥𝐭𝐚𝐡-𝐌𝐃`,
+                        caption: `GROUP LINK: https://chat.whatsapp.com/Dw7EjjGd7e69mDhdU5feJy`,
                     }, {
                         quoted: m
                     }
@@ -1723,12 +1723,12 @@ break;
 break;
 
 case "ping": case "speed": { 
-         m.reply (`𓅓BELTAH PONG...! ${dreadedspeed.toFixed(4)} 𝓶𝓼`); 
+         m.reply (`𓅓BELTAH PONG...! ${dreadedspeed.toFixed(4)} MS`); 
          } 
  break; 
   
  case "runtime": { 
-                 m.reply (`BELTAH AI has been running for ${runtime(process.uptime())} and it is still active`) 
+                 m.reply (` _RUNTIME OF 𝐁𝐞𝐥𝐭𝐚𝐡-𝐓𝐞𝐜𝐡 IS_ * ${runtime(process.uptime())} *`) 
  } 
  break;
 
@@ -1871,17 +1871,17 @@ case "movie":
                  if (!m.isGroup) throw group; 
                  if (!isBotAdmin) throw botAdmin; 
                  let response = await client.groupInviteCode(m.chat); 
-                 client.sendText(m.chat, `https://chat.whatsapp.com/${response}\n\nGroup link for  ${groupMetadata.subject}`, m, { detectLink: true }); 
+                 client.sendText(m.chat, `https://chat.whatsapp.com/${response}\n\nThis is the Group link for  ${groupMetadata.subject}`, m, { detectLink: true }); 
              } 
  break;
  
-          case "owl": case "owner": case "malibu": 
- client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg' }, caption: `Say no more 😌 here is Beltah ke contact +254114141192 😬` }, {quoted: m}); 
+          case "owl": case "owner": case "beltah": 
+ client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg' }, caption: ` _Wait no longer,😌 here is My Handsome owner 🫡 𝐁𝐞𝐥𝐭𝐚𝐡 𝐓𝐞𝐜𝐡 𝟐𝟓𝟒🇰🇪 wa.me/254114141192 😬_ ` }, {quoted: m}); 
   
  break; 
         
        case "script": case "repo": case "sc": 
- client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg' }, caption: `You can deploy this bot using the github link below!\nFork and enjoy our kenyan bot✨.\n\nhttps://github.com/owlai01/Owl-Ai\n\nget your pair code on replit using this link[https://replit.com/@vagaabond9/Pairing-Owl-ai?v=1]\n\nenjoy and have fun 😊 with our bot\n\nMade on Earth by Beltah KE !` }, {quoted: m}); 
+ client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg' }, caption: `You can easily deploy this bot using the github link below!\nFork and give a star 🌟 for courage and enjoy our kenyan bot😬.\n\nhttps://github.com/Beltah/Owl-Ai\n\nget your pair code on replit using this link[https://replit.com/@vagaabond9/Pairing-Owl-ai?v=1]\n\nenjoy and have fun 😊 with our bot\n\nyou can either join our public group for updates[https://chat.whatsapp.com/Dw7EjjGd7e69mDhdU5feJy]\n\nMade on Earth by Beltah KE !` }, {quoted: m}); 
   
  break
 
