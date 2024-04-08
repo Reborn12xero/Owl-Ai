@@ -431,10 +431,10 @@ let cap = `╭════〘 𓅓𝐎𝐖𝐋 𝐁𝐎𝐓𓅓 〙═⊷❍
 ┃𓅓│Tagall
 ┃𓅓│Hidetag
 ┃𓅓│Revoke
-┃𓅓~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~──❍
+┃𓅓~▬▭▬▭▬▭▬▭▬▬▭▬▭▬▬▭▬▭▬▭▬──❍
 ┃𓅓 wa.me/254114141192 if you need this bot🦉
 ┃𓅓made--on--earth--by--Beltah--ke--
-╰ ©ᴮᵒᵗ ᴮᵉˡᵗᵃʰ©²⁰²⁴------~~~~~~~~~~~~~~~~~~------⊷❍`;
+╰▬▭▬▭ ©ᴮᵒᵗ ᴮᵉˡᵗᵃʰ©²⁰²⁴▬▭▬▭▬▭▬▭▬▬▭▬▭▬⊷❍`;
 
 if (menu === 'VIDEO') {
 
@@ -1054,7 +1054,7 @@ break;
 
 case 'restart':  case "reboot":
   if (!Owner) throw `Owner Only` 
-  reply(`Restarting. . .`)  
+  reply(`BELTAH TECH IS Restarting. . .`)  
   await sleep(3000)  
   process.exit()  
   break;
@@ -1325,7 +1325,7 @@ break;
         
         case "system": case "platform":
   
-              client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg' }, caption:`*_𝐁𝐎𝐓 𝐍𝐀𝐌𝐄: 𝐎𝐖𝐋-𝐀𝐈_*\n\n*_𝐒𝐏𝐄𝐄𝐃:𓅓𝙱𝙴𝙻𝚃𝙰𝙷 𝙿𝙾𝙽𝙶...! ${dreadedspeed.toFixed(4)} 𝓶𝓼_*\n\n*_𝐑𝐔𝐍𝐓𝐈𝐌𝐄: ${runtime(process.uptime())}_*\n\n*_𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌: Tesla x_*\n\n*_𝐇𝐎𝐒𝐓𝐍𝐀𝐌𝐄: Beltah_*\n\n*_𝐋𝐈𝐁𝐑𝐀𝐑𝐘: Baileys_*`}); 
+              client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg' }, caption:`*_𝐁𝐎𝐓 𝐍𝐀𝐌𝐄: 𝐎𝐖𝐋-𝐀𝐈_*\n\n*_𝐒𝐏𝐄𝐄𝐃:𓅓𝙱𝙴𝙻𝚃𝙰𝙷 𝙿𝙾𝙽𝙶...! ${dreadedspeed.toFixed(4)} Ms_*\n\n*_𝐑𝐔𝐍𝐓𝐈𝐌𝐄: ${runtime(process.uptime())}_*\n\n*_𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌: Tesla x_*\n\n*_𝐇𝐎𝐒𝐓𝐍𝐀𝐌𝐄: Beltah_*\n\n*_𝐋𝐈𝐁𝐑𝐀𝐑𝐘: Baileys_*\n\n▬▭▬▭▬▭▬▭▬▬▭▬▭▬▬▭▬▭▬\n┣❏Made on earth by Beltah Tech ⚙\n▬▭▬▭▬▭▬▭▬▬▭▬▭▬▬▭▬▭▬ `}); 
  break; 
 
 case "speed": case "test":
@@ -1878,12 +1878,12 @@ case "movie":
  break;
  
           case "owl": case "owner": case "beltah": 
- client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/1331b58bdd1c8771ee322.jpg' }, caption: ` _Wait no longer,😌 here is My Handsome owner 🫡 𝐁𝐞𝐥𝐭𝐚𝐡 𝐓𝐞𝐜𝐡 𝟐𝟓𝟒🇰🇪 wa.me/254114141192 😬_ ` }, {quoted: m}); 
+ client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/1331b58bdd1c8771ee322.jpg' }, caption: ` _Wait no longer😌\n┣❏Here is My Handsome owner 🫡\n┣❏𝐁𝐞𝐥𝐭𝐚𝐡 𝐓𝐞𝐜𝐡 𝟐𝟓𝟒🇰🇪\n┣❏ wa.me/254114141192 😬_ \n\n▬▭▬▭▬▭▬▭▬▬▭▬▭▬▬▭▬▭▬\n┣❏made on earth by Beltah ke\n▬▭▬▭▬▭▬▭▬▬▭▬▭▬▬▭▬▭▬` }, {quoted: m}); 
   
  break; 
         
        case "script": case "repo": case "sc": 
- client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg' }, caption: `You can easily deploy this bot using the github link below!\nFork and give a star 🌟 for courage and enjoy our kenyan bot😬.\n\n🦉Repo=https://github.com/Beltah/Owl-Ai\n\nGet your pair code on replit using this link[https://replit.com/@vagaabond9/Pairing-Owl-ai?v=1]\n\nEnjoy and have fun 😊 with our bot\n\nYou can either join our public group for updates:\nGROUP LINK=[https://chat.whatsapp.com/Dw7EjjGd7e69mDhdU5feJy]\n\nMade on Earth by Beltah KE !` }, {quoted: m}); 
+ client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg' }, caption: `You can easily deploy this bot using the github link below!\nFork the repo and give a star 🌟 for courage😬.\n\n🦉┣❏https://github.com/Beltah/Owl-Ai\n\nGet your pair code on replit using this link\n┣❏[https://replit.com/@vagaabond9/Pairing-Owl-ai?v=1]\n\n┣❏Enjoy and have fun 😊 with our bot\n\nYou can either join our public group for updates:\n┣❏ https://chat.whatsapp.com/Dw7EjjGd7e69mDhdU5feJy\n\n▬▭▬▭▬▭▬▭▬▬▭▬▭▬▬▭▬▭▬\n┣❏Made on Earth by Beltahke\n▬▭▬▭▬▭▬▭▬▬▭▬▭▬▬▭▬▭▬` }, {quoted: m}); 
   
  break
 
